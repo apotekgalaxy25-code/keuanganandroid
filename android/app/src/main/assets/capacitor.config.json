@@ -1,0 +1,9 @@
+{
+	"appId": "id.keuangankeluarga.app",
+	"appName": "Keuangan Keluarga",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	},
+	"backgroundColor": "#fad749"
+}
